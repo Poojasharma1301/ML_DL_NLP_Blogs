@@ -24,3 +24,6 @@
 22- https://www.guru99.com/backpropogation-neural-network.html#:~:text=Back%2Dpropagation%20is%20the%20essence,reliable%20by%20increasing%20its%20generalization.<br>
 23- https://towardsdatascience.com/how-does-back-propagation-in-artificial-neural-networks-work-c7cad873ea7<br>
 24- https://www.tensorflow.org/install/source_windows<br>
+25- https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/<br>
+26- https://towardsdatascience.com/convolutional-layers-vs-fully-connected-layers-364f05ab460b<br>
+27- https://medium.com/techspace-usict/normalization-techniques-in-deep-neural-networks-9121bf100d8#:~:text=Normalization%20has%20always%20been%20an,time%20by%20a%20huge%20factor.&text=It%20is%20the%20change%20in,in%20network%20parameters%20during%20training<br>
