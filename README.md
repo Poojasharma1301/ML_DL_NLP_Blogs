@@ -27,5 +27,12 @@
 25- https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/<br>
 26- https://towardsdatascience.com/convolutional-layers-vs-fully-connected-layers-364f05ab460b<br>
 27- https://medium.com/techspace-usict/normalization-techniques-in-deep-neural-networks-9121bf100d8#:~:text=Normalization%20has%20always%20been%20an,time%20by%20a%20huge%20factor.&text=It%20is%20the%20change%20in,in%20network%20parameters%20during%20training<br>
-28 - https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53
-29 - https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/
+28 - https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53<br>
+29 - https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/<br>
+30 - https://www.tensorflow.org/tutorials/images/cnn<br>
+31 - https://www.freecodecamp.org/news/an-intuitive-guide-to-convolutional-neural-networks-260c2de0a050/<br>
+32 - https://www.simplilearn.com/tutorials/deep-learning-tutorial/rnn<br>
+33 - https://machinelearningmastery.com/a-gentle-introduction-to-the-challenge-of-training-deep-learning-neural-network-models/<br>
+34 - https://towardsdatascience.com/building-a-deep-learning-model-using-keras-1548ca149d37<br>
+35 - https://towardsdatascience.com/recurrent-neural-networks-d4642c9bc7ce<br>
+36 - https://bdtechtalks.com/2020/01/06/convolutional-neural-networks-cnn-convnets/<br>
