@@ -27,3 +27,5 @@
 25- https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/<br>
 26- https://towardsdatascience.com/convolutional-layers-vs-fully-connected-layers-364f05ab460b<br>
 27- https://medium.com/techspace-usict/normalization-techniques-in-deep-neural-networks-9121bf100d8#:~:text=Normalization%20has%20always%20been%20an,time%20by%20a%20huge%20factor.&text=It%20is%20the%20change%20in,in%20network%20parameters%20during%20training<br>
+28 - https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53
+29 - https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/
