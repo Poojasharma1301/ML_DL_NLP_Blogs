@@ -36,3 +36,16 @@
 34 - https://towardsdatascience.com/building-a-deep-learning-model-using-keras-1548ca149d37<br>
 35 - https://towardsdatascience.com/recurrent-neural-networks-d4642c9bc7ce<br>
 36 - https://bdtechtalks.com/2020/01/06/convolutional-neural-networks-cnn-convnets/<br>
+37 - https://towardsdatascience.com/data-preprocessing-and-network-building-in-cnn-15624ef3a28b<br>
+38 - https://www.marktechpost.com/2019/06/14/data-pre-processing-for-deep-learning-models-deep-learning-with-keras-part-2/<br>
+39 - https://nanonets.com/blog/data-augmentation-how-to-use-deep-learning-when-you-have-limited-data-part-2/<br>
+40 - https://machinelearningmastery.com/how-to-configure-image-data-augmentation-when-training-deep-learning-neural-networks/<br>
+41 - https://towardsdatascience.com/data-augmentation-for-deep-learning-4fe21d1a4eb9<br>
+42 - https://medium.com/sciforce/how-to-find-a-perfect-deep-learning-framework-3cc00a56334d<br>
+43 - https://towardsdatascience.com/which-deep-learning-framework-is-the-best-eb51431c39a<br>
+44 - https://jrodthoughts.medium.com/practical-deep-learning-selecting-the-right-model-and-gathering-training-data-part-i-6d487fd783eb<br>
+45 - https://towardsdatascience.com/4-steps-to-finding-the-right-deep-learning-model-f35a9d7988b6<br>
+46 - https://heartbeat.comet.ml/selecting-the-best-architecture-for-artificial-neural-networks-7b051f775b4<br>
+47 - https://machinelearningmastery.com/how-to-train-an-object-detection-model-with-keras/<br>
+48 - https://medium.com/dair-ai/a-simple-neural-network-from-scratch-with-pytorch-and-google-colab-c7f3830618e0<br>
+49 - https://towardsdatascience.com/building-neural-network-using-pytorch-84f6e75f9a<br>
