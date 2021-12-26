@@ -49,3 +49,9 @@
 47 - https://machinelearningmastery.com/how-to-train-an-object-detection-model-with-keras/<br>
 48 - https://medium.com/dair-ai/a-simple-neural-network-from-scratch-with-pytorch-and-google-colab-c7f3830618e0<br>
 49 - https://towardsdatascience.com/building-neural-network-using-pytorch-84f6e75f9a<br>
+50 - https://www.pyimagesearch.com/2017/08/21/deep-learning-with-opencv/<br>
+51 - https://docs.openvino.ai/latest/index.html<br>
+52 - https://www.deeplearning.ai/ai-notes/optimization/<br>
+53 - https://analyticsindiamag.com/optimisation-machine-learning-methods-gradient-descent/<br>
+54 - https://towardsdatascience.com/how-to-accelerate-and-compress-neural-networks-with-quantization-edfbbabb6af7<br>
+55 - https://towardsdatascience.com/pruning-neural-networks-1bb3ab5791f9<br>
