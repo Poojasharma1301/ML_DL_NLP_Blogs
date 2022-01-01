@@ -55,3 +55,4 @@
 53 - https://analyticsindiamag.com/optimisation-machine-learning-methods-gradient-descent/<br>
 54 - https://towardsdatascience.com/how-to-accelerate-and-compress-neural-networks-with-quantization-edfbbabb6af7<br>
 55 - https://towardsdatascience.com/pruning-neural-networks-1bb3ab5791f9<br>
+56 - https://github.com/openvinotoolkit/open_model_zoo/tree/2020.4/models/intel<br>
