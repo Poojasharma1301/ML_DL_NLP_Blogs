@@ -56,3 +56,8 @@
 54 - https://towardsdatascience.com/how-to-accelerate-and-compress-neural-networks-with-quantization-edfbbabb6af7<br>
 55 - https://towardsdatascience.com/pruning-neural-networks-1bb3ab5791f9<br>
 56 - https://github.com/openvinotoolkit/open_model_zoo/tree/2020.4/models/intel<br>
+57 - https://towardsdatascience.com/how-do-you-train-a-face-detection-model-a60330f15fd5<br>
+58 - https://towardsdatascience.com/how-to-train-your-own-object-detector-with-tensorflows-object-detector-api-bec72ecfe1d9<br>
+59 - https://www.analyticsvidhya.com/blog/2018/06/understanding-building-object-detection-model-python/<br>
+60 - https://towardsdatascience.com/creating-your-own-object-detector-ad69dda69c85<br>
+61 - https://github.com/armaanpriyadarshan/<br>
